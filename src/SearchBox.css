@@ -1,0 +1,6 @@
+.SearchBox{
+    margin-bottom: 40px;
+    /*max-width:400px;*/
+    justify-content: center;
+    display: flex;
+}
